@@ -1,4 +1,4 @@
-# Khryzti F
+# Khryzti F.
 
 -[Github Repository](https://github.com/Krispp-y/final-project)
 
